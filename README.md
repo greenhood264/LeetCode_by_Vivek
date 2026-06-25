@@ -42,7 +42,7 @@ Each solution includes:
 
 | Category | Status |
 |---|---|
-| Easy Problems | 🔄 Completed |
+| Easy Problems | 🔄 In Progress |
 | Medium Problems | 🔄 In Progress |
 | Hard Problems | 🔄 In Progress |
 
