@@ -42,7 +42,7 @@ Each solution includes:
 
 | Category | Status |
 |---|---|
-| Easy Problems | ✅ Completed |
+| Easy Problems | 🔄 Completed |
 | Medium Problems | 🔄 In Progress |
 | Hard Problems | 🔄 In Progress |
 
@@ -52,7 +52,7 @@ Solve LeetCode problems consistently and build strong fundamentals in DSA for so
 
 ## 🔗 My LeetCode Profile
 
-(Add your LeetCode profile link here)
+https://leetcode.com/u/greenhood/
 
 ## ⭐ If you find this helpful
 
