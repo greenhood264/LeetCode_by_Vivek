@@ -57,3 +57,11 @@ https://leetcode.com/u/greenhood/
 ## ⭐ If you find this helpful
 
 Feel free to star ⭐ the repository!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
