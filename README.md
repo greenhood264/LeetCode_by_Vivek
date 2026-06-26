@@ -38,14 +38,6 @@ Each solution includes:
 - Space Complexity
 - Important edge cases
 
-## 📊 Progress
-
-| Category | Status |
-|---|---|
-| Easy Problems | 🔄 In Progress |
-| Medium Problems | 🔄 In Progress |
-| Hard Problems | 🔄 In Progress |
-
 ## 🎯 Goal
 
 Solve LeetCode problems consistently and build strong fundamentals in DSA for software engineering interviews.
