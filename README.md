@@ -77,4 +77,8 @@ Feel free to star ⭐ the repository!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
