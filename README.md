@@ -46,9 +46,6 @@ Solve LeetCode problems consistently and build strong fundamentals in DSA for so
 
 https://leetcode.com/u/greenhood/
 
-## ⭐ If you find this helpful
-
-Feel free to star ⭐ the repository!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
