@@ -54,6 +54,7 @@ https://leetcode.com/u/greenhood/
 | ------- |
 | [0009-palindrome-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0509-fibonacci-number) |
+| [3894-traffic-signal-color](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0125-valid-palindrome) |
+| [3894-traffic-signal-color](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,4 +80,8 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+## Simulation
+|  |
+| ------- |
+| [3894-traffic-signal-color](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
