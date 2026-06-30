@@ -63,6 +63,7 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0125-valid-palindrome) |
+| [0771-jewels-and-stones](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0771-jewels-and-stones) |
 | [3894-traffic-signal-color](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
@@ -84,4 +85,8 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [3894-traffic-signal-color](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3894-traffic-signal-color) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
