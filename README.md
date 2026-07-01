@@ -80,6 +80,7 @@ https://leetcode.com/u/greenhood/
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0035-search-insert-position) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Simulation
 |  |
@@ -89,4 +90,8 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0771-jewels-and-stones) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
