@@ -59,6 +59,7 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0035-search-insert-position) |
+| [0283-move-zeroes](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Simulation
 |  |
