@@ -81,6 +81,7 @@ https://leetcode.com/u/greenhood/
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -95,5 +96,10 @@ https://leetcode.com/u/greenhood/
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
