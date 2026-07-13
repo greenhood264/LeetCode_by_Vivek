@@ -59,6 +59,7 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0283-move-zeroes) |
 ## String
@@ -85,6 +86,7 @@ https://leetcode.com/u/greenhood/
 | [0004-median-of-two-sorted-arrays](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Simulation
@@ -108,4 +110,5 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
