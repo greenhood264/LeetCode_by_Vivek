@@ -53,6 +53,7 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0029-divide-two-integers) |
 | [0509-fibonacci-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0509-fibonacci-number) |
 | [3894-traffic-signal-color](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
@@ -111,4 +112,8 @@ https://leetcode.com/u/greenhood/
 | ------- |
 | [0015-3sum](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
