@@ -63,6 +63,7 @@ https://leetcode.com/u/greenhood/
 | [0075-sort-colors](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ https://leetcode.com/u/greenhood/
 | [0035-search-insert-position](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0287-find-the-duplicate-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Simulation
 |  |
@@ -104,6 +106,7 @@ https://leetcode.com/u/greenhood/
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,6 +120,7 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
