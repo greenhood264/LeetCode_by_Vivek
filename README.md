@@ -90,6 +90,7 @@ https://leetcode.com/u/greenhood/
 | [0015-3sum](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0287-find-the-duplicate-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -100,6 +101,7 @@ https://leetcode.com/u/greenhood/
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
@@ -116,6 +118,7 @@ https://leetcode.com/u/greenhood/
 | ------- |
 | [0015-3sum](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
