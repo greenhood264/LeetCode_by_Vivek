@@ -55,6 +55,7 @@ https://leetcode.com/u/greenhood/
 | [0009-palindrome-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0029-divide-two-integers) |
 | [0509-fibonacci-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0628-maximum-product-of-three-numbers) |
 | [3894-traffic-signal-color](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ https://leetcode.com/u/greenhood/
 | [0219-contains-duplicate-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0287-find-the-duplicate-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0628-maximum-product-of-three-numbers) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Simulation
 |  |
@@ -126,6 +128,7 @@ https://leetcode.com/u/greenhood/
 | [0075-sort-colors](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
