@@ -1,0 +1,40 @@
+class Solution {
+public:
+    int maximumProduct(vector<int>& nums) {
+        int n=nums.size();
+        int maxi1=INT_MIN;
+        int maxi2=INT_MIN;
+        int maxi3=INT_MIN;
+        int min1=INT_MAX;
+        int min2=INT_MAX;
+        for(int i=0;i<n;i++){
+            if(nums[i]>maxi1){
+                maxi3=maxi2;
+                maxi2=maxi1;
+                maxi1=nums[i];
+            }
+            else if(nums[i]>maxi2){
+                maxi3=maxi2;
+                maxi2=nums[i];
+
+            }
+            else if (nums[i]>maxi3){
+                maxi3=nums[i];
+            }
+
+            if(nums[i]<min1){
+                min2=min1;
+                min1=nums[i];
+
+            }
+            else if (nums[i]<min2){
+                min2=nums[i];
+            }
+        }
+        long long opt1=maxi1*maxi2*maxi3;
+        long long opt2=min1*min2*maxi1;
+        long long ans=max(opt1,opt2);
+        return ans;
+        
+    }
+};
