@@ -73,6 +73,7 @@ https://leetcode.com/u/greenhood/
 | [0290-word-pattern](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0290-word-pattern) |
 | [0771-jewels-and-stones](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1021-remove-outermost-parentheses) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3894-traffic-signal-color](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
@@ -130,6 +131,7 @@ https://leetcode.com/u/greenhood/
 | [0088-merge-sorted-array](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0628-maximum-product-of-three-numbers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -144,4 +146,8 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0219-contains-duplicate-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
