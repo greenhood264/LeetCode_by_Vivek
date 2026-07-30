@@ -56,6 +56,7 @@ https://leetcode.com/u/greenhood/
 | [0029-divide-two-integers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0029-divide-two-integers) |
 | [0509-fibonacci-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3894-traffic-signal-color](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@ https://leetcode.com/u/greenhood/
 | [0290-word-pattern](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0290-word-pattern) |
 | [0771-jewels-and-stones](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1021-remove-outermost-parentheses) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3894-traffic-signal-color](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
@@ -158,6 +160,7 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
