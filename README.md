@@ -71,6 +71,7 @@ https://leetcode.com/u/greenhood/
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0290-word-pattern) |
 | [0771-jewels-and-stones](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0771-jewels-and-stones) |
@@ -148,6 +149,7 @@ https://leetcode.com/u/greenhood/
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0020-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1021-remove-outermost-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
@@ -171,4 +173,8 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0073-set-matrix-zeroes) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
