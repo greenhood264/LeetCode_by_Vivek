@@ -67,6 +67,7 @@ https://leetcode.com/u/greenhood/
 | [0125-valid-palindrome](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## String
 |  |
@@ -105,6 +106,7 @@ https://leetcode.com/u/greenhood/
 | [0219-contains-duplicate-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0628-maximum-product-of-three-numbers) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -119,6 +121,7 @@ https://leetcode.com/u/greenhood/
 | [0217-contains-duplicate](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
@@ -126,6 +129,7 @@ https://leetcode.com/u/greenhood/
 | [0004-median-of-two-sorted-arrays](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,6 +141,7 @@ https://leetcode.com/u/greenhood/
 | [0075-sort-colors](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0628-maximum-product-of-three-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3517-smallest-palindromic-rearrangement-i) |
