@@ -54,6 +54,7 @@ https://leetcode.com/u/greenhood/
 | ------- |
 | [0009-palindrome-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -132,6 +133,7 @@ https://leetcode.com/u/greenhood/
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
@@ -202,4 +204,8 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
