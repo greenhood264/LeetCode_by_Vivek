@@ -102,6 +102,7 @@ https://leetcode.com/u/greenhood/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0027-remove-element) |
@@ -127,6 +128,7 @@ https://leetcode.com/u/greenhood/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0219-contains-duplicate-ii) |
