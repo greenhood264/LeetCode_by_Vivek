@@ -90,6 +90,7 @@ https://leetcode.com/u/greenhood/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -111,6 +112,7 @@ https://leetcode.com/u/greenhood/
 | [0073-set-matrix-zeroes](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0219-contains-duplicate-ii) |
