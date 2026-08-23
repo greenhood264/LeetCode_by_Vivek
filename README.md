@@ -58,6 +58,7 @@ https://leetcode.com/u/greenhood/
 | [0069-sqrtx](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0628-maximum-product-of-three-numbers) |
+| [1927-sum-game](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3894-traffic-signal-color](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3894-traffic-signal-color) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -85,6 +86,7 @@ https://leetcode.com/u/greenhood/
 | [0771-jewels-and-stones](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1021-remove-outermost-parentheses) |
 | [1528-shuffle-string](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1528-shuffle-string) |
+| [1927-sum-game](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3894-traffic-signal-color](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3894-traffic-signal-color) |
@@ -189,6 +191,7 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1927-sum-game](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
@@ -230,4 +233,8 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
