@@ -129,6 +129,7 @@ https://leetcode.com/u/greenhood/
 | [0350-intersection-of-two-arrays-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0628-maximum-product-of-three-numbers) |
+| [1004-max-consecutive-ones-iii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1004-max-consecutive-ones-iii) |
 | [1528-shuffle-string](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Simulation
@@ -156,6 +157,7 @@ https://leetcode.com/u/greenhood/
 | [0268-missing-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,6 +193,7 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -237,6 +240,7 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1004-max-consecutive-ones-iii) |
 ## Number Theory
 |  |
 | ------- |
