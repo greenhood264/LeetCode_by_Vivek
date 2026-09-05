@@ -132,6 +132,7 @@ https://leetcode.com/u/greenhood/
 | [1004-max-consecutive-ones-iii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1004-max-consecutive-ones-iii) |
 | [1528-shuffle-string](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3904-smallest-stable-index-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -241,6 +242,7 @@ https://leetcode.com/u/greenhood/
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1004-max-consecutive-ones-iii) |
+| [3904-smallest-stable-index-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3904-smallest-stable-index-ii) |
 ## Number Theory
 |  |
 | ------- |
