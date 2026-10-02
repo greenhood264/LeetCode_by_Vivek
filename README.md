@@ -80,6 +80,7 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0290-word-pattern) |
@@ -94,6 +95,7 @@ https://leetcode.com/u/greenhood/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0509-fibonacci-number) |
@@ -217,6 +219,7 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0022-generate-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -251,4 +254,8 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1927-sum-game) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
