@@ -258,4 +258,8 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
