@@ -86,6 +86,7 @@ https://leetcode.com/u/greenhood/
 | [0290-word-pattern](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1021-remove-outermost-parentheses) |
 | [1528-shuffle-string](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1528-shuffle-string) |
 | [1927-sum-game](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1927-sum-game) |
@@ -191,6 +192,7 @@ https://leetcode.com/u/greenhood/
 | ------- |
 | [0020-valid-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0020-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
@@ -205,6 +207,7 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
@@ -220,6 +223,7 @@ https://leetcode.com/u/greenhood/
 | ------- |
 | [0020-valid-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String Matching
 |  |
 | ------- |
