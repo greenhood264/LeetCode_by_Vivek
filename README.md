@@ -135,6 +135,7 @@ https://leetcode.com/u/greenhood/
 | [1004-max-consecutive-ones-iii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1004-max-consecutive-ones-iii) |
 | [1528-shuffle-string](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3904-smallest-stable-index-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
@@ -152,6 +153,7 @@ https://leetcode.com/u/greenhood/
 | [0350-intersection-of-two-arrays-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0771-jewels-and-stones) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,6 +201,7 @@ https://leetcode.com/u/greenhood/
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1004-max-consecutive-ones-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting Sort
 |  |
 | ------- |
