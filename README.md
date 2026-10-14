@@ -61,6 +61,7 @@ https://leetcode.com/u/greenhood/
 | [0628-maximum-product-of-three-numbers](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3894-traffic-signal-color](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3894-traffic-signal-color) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Two Pointers
@@ -213,6 +214,7 @@ https://leetcode.com/u/greenhood/
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
