@@ -137,6 +137,7 @@ https://leetcode.com/u/greenhood/
 | [1528-shuffle-string](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3904-smallest-stable-index-ii](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
@@ -155,6 +156,7 @@ https://leetcode.com/u/greenhood/
 | [0389-find-the-difference](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0771-jewels-and-stones) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -271,4 +273,12 @@ https://leetcode.com/u/greenhood/
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/greenhood264/LeetCode_by_Vivek/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
